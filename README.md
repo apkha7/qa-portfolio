@@ -1,2 +1,2 @@
-# manual-qa
-Manual QA testing (Web &amp; Mobile)
+# qa
+ QA testing (Web &amp; Mobile)
